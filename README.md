@@ -1,6 +1,6 @@
 # TimeSheetPro Privacy Policy
 
-Last Updated: [Date]
+Last Updated: [05/08/23]
 
 ## 1. Introduction
 
