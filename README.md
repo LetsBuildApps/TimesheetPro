@@ -1,45 +1,91 @@
 # TimeSheetPro Privacy Policy
 
-Last Updated: [05/08/23]
+**Last updated: 9 July 2026**
 
 ## 1. Introduction
 
-TimeSheetPro ("we", "our", or "us") operates the TimeSheetPro mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+Timesheet Pro ("we", "our", "us") is a timesheet tracking and invoice
+generation app for iOS. This policy explains what information the app
+handles and the choices you have.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
+The short version: **your timesheets, invoices, clients, and business
+details stay on your device.** We do not require an account, we do not
+collect personally identifiable information, and we do not sell or share
+data with advertisers.
 
-## 2. Information Collection And Use
+## 2. Data stored on your device
 
-While using our Service, we may ask you to provide us with certain non-personally identifiable information that can be used to enhance your experience, troubleshoot, and improve our Service. We don't collect personally identifiable information directly.
+Everything you create in Timesheet Pro — timesheet entries, invoices,
+client and business details, hourly rates, templates, and settings — is
+stored locally on your device in the app's private storage. We have no
+server that receives this data and no ability to access it.
 
-## 3. Type of Data Collected
+- **Backups and exports** (PDF, CSV, backup files) are created only when
+  you choose to export them, and are saved or shared to the destination
+  you pick. Once exported, that copy is under your control.
+- **Local recovery snapshots** are kept on-device to protect against data
+  corruption and never leave your device.
+- Deleting the app deletes all locally stored data.
 
-### 3.1 Tracking & Cookies Data
+## 3. Data we collect
 
-We use Google Analytics and third-party vendors to collect information that helps us monitor and understand how our Service is used. These third parties use cookies (small files placed on your device) or similar tracking technologies to help us analyze your use of the service, compile statistic reports on the Service's activity, and provide other services related to Service activity and usage.
+We collect two narrow categories of data, neither of which is linked to
+your identity and neither of which is used for tracking:
 
-### 3.2 Use of Data
+### 3.1 Crash reports (Sentry)
 
-TimeSheetPro uses the collected data for various purposes:
+If the app crashes or encounters an error, a crash report is sent to
+Sentry (sentry.io), our crash reporting provider. Reports contain
+technical details such as device model, OS version, app version, and the
+state of the code at the time of the crash. They do **not** include your
+timesheet or invoice content, your name, or contact details, and we have
+configured Sentry not to collect IP-based personal identifiers,
+screenshots, or session recordings.
 
-- To provide and maintain the Service
-- To monitor the usage of the Service
-- To detect, prevent and address technical issues
+### 3.2 Anonymous usage analytics (TelemetryDeck)
 
-## 4. Transfer Of Data
+We use TelemetryDeck (telemetrydeck.com), a privacy-focused analytics
+service, to understand which features are used — for example, how often
+invoices are generated. Signals are anonymized by TelemetryDeck before
+storage, cannot be traced back to you, and contain no timesheet or
+invoice content. TelemetryDeck does not use cookies or track you across
+apps.
 
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ from those from your jurisdiction.
+We do **not** use Google Analytics, advertising SDKs, or any cross-app
+tracking. The app displays no ads.
 
-## 5. Disclosure Of Data
+## 4. Purchases
 
-We may disclose your Personal Data in the good faith belief that such action is necessary to:
+The optional Pro Invoice Pack is a one-time purchase processed entirely
+by Apple through the App Store. We do not receive or store your payment
+details. Apple's privacy policy governs the transaction.
 
-- To comply with a legal obligation
-- To protect and defend the rights or property of TimeSheetPro
-- To prevent or investigate possible wrongdoing in connection with the Service
-- To protect the personal safety of users of the Service or the public
-- To protect against legal liability
+## 5. Notifications
 
-## 6. Security Of Data
+If you enable reminders, notifications are scheduled locally on your
+device. No notification data is sent to us or any third party.
 
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 
+## 6. Your choices
+
+- You can decline or revoke notification permission in iOS Settings at
+  any time; the app remains fully functional.
+- You can delete all app data at any time by deleting the app.
+- Crash reporting and analytics contain no personal identifiers, so there
+  is no personal data for us to look up, correct, or delete on request —
+  we simply never have it.
+
+## 7. Children's privacy
+
+Timesheet Pro is a business utility and is not directed at children
+under 13. We do not knowingly collect personal information from anyone,
+including children.
+
+## 8. Changes to this policy
+
+We may update this policy as the app evolves. Changes will be posted to
+this page with an updated "Last updated" date.
+
+## 9. Contact
+
+Questions about this policy or the app:
+**suggestion.apps@gmail.com**
