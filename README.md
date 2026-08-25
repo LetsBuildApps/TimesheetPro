@@ -1,6 +1,6 @@
 # TimeSheetPro Privacy Policy
 
-**Last updated: 9 July 2026**
+**Last updated: 25 August 2026**
 
 ## 1. Introduction
 
@@ -29,8 +29,8 @@ server that receives this data and no ability to access it.
 
 ## 3. Data we collect
 
-We collect two narrow categories of data, neither of which is linked to
-your identity and neither of which is used for tracking:
+We collect crash diagnostics only. They are not linked to your identity
+and are not used for tracking.
 
 ### 3.1 Crash reports (Sentry)
 
@@ -42,17 +42,8 @@ timesheet or invoice content, your name, or contact details, and we have
 configured Sentry not to collect IP-based personal identifiers,
 screenshots, or session recordings.
 
-### 3.2 Anonymous usage analytics (TelemetryDeck)
-
-We use TelemetryDeck (telemetrydeck.com), a privacy-focused analytics
-service, to understand which features are used — for example, how often
-invoices are generated. Signals are anonymized by TelemetryDeck before
-storage, cannot be traced back to you, and contain no timesheet or
-invoice content. TelemetryDeck does not use cookies or track you across
-apps.
-
-We do **not** use Google Analytics, advertising SDKs, or any cross-app
-tracking. The app displays no ads.
+We do **not** collect usage analytics, use advertising SDKs, or track
+you across apps. The app displays no ads.
 
 ## 4. Purchases
 
@@ -70,9 +61,9 @@ device. No notification data is sent to us or any third party.
 - You can decline or revoke notification permission in iOS Settings at
   any time; the app remains fully functional.
 - You can delete all app data at any time by deleting the app.
-- Crash reporting and analytics contain no personal identifiers, so there
-  is no personal data for us to look up, correct, or delete on request —
-  we simply never have it.
+- Crash reporting contains no personal identifiers, so there is no
+  personal data for us to look up, correct, or delete on request — we
+  simply never have it.
 
 ## 7. Children's privacy
 
