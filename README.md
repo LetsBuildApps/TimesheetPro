@@ -1,6 +1,6 @@
 # TimeSheetPro Privacy Policy
 
-**Last updated: 25 August 2026**
+**Last updated: 27 September 2026**
 
 ## 1. Introduction
 
@@ -47,9 +47,19 @@ you across apps. The app displays no ads.
 
 ## 4. Purchases
 
-The optional Pro Invoice Pack is a one-time purchase processed entirely
-by Apple through the App Store. We do not receive or store your payment
-details. Apple's privacy policy governs the transaction.
+Optional Timesheet Pro features can be unlocked with the purchase plans
+available in the app: monthly or yearly auto-renewable subscriptions,
+or a one-time lifetime purchase. The original Pro Invoice Pack purchase
+continues to unlock lifetime Pro access.
+
+Apple processes purchases through the App Store. The app uses StoreKit
+to check purchase and subscription status and restore eligible purchases.
+We do not receive or store your payment card details. Apple's privacy
+policy governs the transaction.
+
+Subscriptions renew automatically unless cancelled. You can manage or
+cancel a subscription through your App Store account settings. Prices,
+billing periods and any eligible free trial are shown before purchase.
 
 ## 5. Notifications
 
